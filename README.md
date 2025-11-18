@@ -118,6 +118,6 @@ Make sure Node.js is installed, then run:
 
 bash
 Copy code
-node index.js
+node main.js
 📜 License
 This project is open-source and free to use.
